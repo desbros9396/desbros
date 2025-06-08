@@ -1,0 +1,4 @@
+Sphinx
+linkify-it-py
+myst-parser
+furo
