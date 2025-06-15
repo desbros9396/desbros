@@ -5,12 +5,6 @@ build:
     python: "3.10"
     # You can also specify other tool versions:
     # nodejs: "16"
-  jobs:
-    build:
-      html:
-        - make BUILDDIR=$READTHEDOCS_OUTPUT singlehtml
-        - mkdir -p $READTHEDOCS_OUTPUT/html
-        - mv $READTHEDOCS_OUTPUT/singlehtml/* $READTHEDOCS_OUTPUT/html
 
 # Build documentation in the docs/ directory with Sphinx
 sphinx:
