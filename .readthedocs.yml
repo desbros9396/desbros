@@ -10,8 +10,7 @@ build:
       html:
         - make BUILDDIR=$READTHEDOCS_OUTPUT singlehtml
         - mkdir -p $READTHEDOCS_OUTPUT/html
-        - mv $READTHEDOCS_OUTPUT/singlehtml $READTHEDOCS_OUTPUT/html
-        - ls $READTHEDOCS_OUTPUT/html
+        - mv $READTHEDOCS_OUTPUT/singlehtml/* $READTHEDOCS_OUTPUT/html
 
 # Build documentation in the docs/ directory with Sphinx
 sphinx:
