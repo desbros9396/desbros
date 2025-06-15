@@ -1,7 +1,11 @@
 # All Thing about Desbros (ATD)
 
+Here are stuffs about me.
+
 ```{toctree}
-:maxdepth: 2
+:hidden:
 
 introduction/index.md
+whoiam/index.md
+appendices/index.md
 ```

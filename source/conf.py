@@ -6,7 +6,9 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'All Thing about Desbros'
+import os.path
+
+project = 'ATD'
 copyright = '2025, desbros'
 author = 'Desbros'
 

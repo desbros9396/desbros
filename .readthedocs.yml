@@ -10,6 +10,9 @@ build:
 sphinx:
    configuration: source/conf.py
 
+formats:
+  - pdf
+
 # Dependencies required to build your docs
 python:
    install:
