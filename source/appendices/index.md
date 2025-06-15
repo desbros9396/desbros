@@ -1,2 +1,5 @@
 # Appendices
 
+```{toctree}
+about.md
+```

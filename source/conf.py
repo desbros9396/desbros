@@ -6,8 +6,6 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-import os.path
-
 project = 'ATD'
 copyright = '2025, desbros'
 author = 'Desbros'
@@ -34,7 +32,7 @@ myst_enable_extensions = [
     "tasklist",
 ]
 
-templates_path = ['_templates']
+# templates_path = ['_templates']
 exclude_patterns = []
 
 
