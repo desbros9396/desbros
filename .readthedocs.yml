@@ -6,9 +6,10 @@ build:
     # You can also specify other tool versions:
     # nodejs: "16"
   jobs:
-    html:
-      make singlehtml
-      mv build/singlehtml $READTHEDOCS_output/html
+    build:
+      html:
+        make singlehtml
+        mv build/singlehtml $READTHEDOCS_output/html
 
 # Build documentation in the docs/ directory with Sphinx
 sphinx:
