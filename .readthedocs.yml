@@ -8,8 +8,8 @@ build:
   jobs:
     build:
       html:
-        make singlehtml
-        mv build/singlehtml $READTHEDOCS_output/html
+        - make singlehtml
+          mv build/singlehtml $READTHEDOCS_output/html
 
 # Build documentation in the docs/ directory with Sphinx
 sphinx:
