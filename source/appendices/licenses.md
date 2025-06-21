@@ -1,8 +1,4 @@
-# About These Documentaions
-
-(incomplete)
-
-## History and Licenses
+# History and Licenses
 
 Jun, 8 - 2025, A Sunday. Desbros Lee created the project. He was very happy to meet his new "toy"
 

@@ -1,5 +1,5 @@
 # Appendices
 
 ```{toctree}
-about.md
+licenses.md
 ```
