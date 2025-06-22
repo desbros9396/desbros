@@ -7,3 +7,7 @@ Desbros is easy to pronunce, but Xinghao usually hard to pronunce for non-Chines
 
   [^1]:
     Xinghao is its Chinese *pinyin* without tones.
+
+## My experience
+
+I'm a student now.
